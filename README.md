@@ -30,7 +30,7 @@ Over time, sales peaked in **2022 before dropping in 2023**, reflecting cyclical
 
 ---
 
- ![Image Alt](https://github.com/osaze32/JellyByte-Candy-Distributor-Analysis-SQL-Fictitious-Dataset-/blob/main/data_structure_image.png?raw=true)
+ ![Image Alt][(https://github.com/osaze32/BMW_Sales_Analysis/blob/main/BMW_Sales_Analysis_Dashboard.png)
 
 
 # Key Insights
